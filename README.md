@@ -35,7 +35,7 @@ Final Boss → Full Stack Developer
 Output → Structured roadmap with progressive learning steps and the users can also download the roadmap in PPT format.
 
 ```bash
-cd questforge
+cd SAtHI_AI
 npm install && node index.js
 
 cd ai-frontend
