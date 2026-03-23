@@ -1,7 +1,7 @@
-QuestForge — Your Personalized Training Arc
+SAtHI-AI — Your Personalized Training Arc
 
-QuestForge is a gamified learning roadmap generator that creates a personalized training journey for developers.
-Instead of randomly learning topics, users define their goal, duration, daily grind, and final objective, and QuestForge generates a structured learning arc.
+SAtHI-AI is a gamified learning roadmap generator that creates a personalized training journey for developers.
+SAtHI-AI generates a structured learning arc.
 
 The idea is inspired by RPG progression systems, where each developer becomes a player completing quests to defeat their Final Boss (Goal).
 
